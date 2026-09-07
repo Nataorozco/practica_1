@@ -162,7 +162,7 @@ La estructura inicial del proyecto se encuentra en proceso de construcción. Las
 
 **Claudia Nataly Orozco Ocampo**
 
-Estudiante de Ingeniería de Sistemas
+Estudiante de Ingeniería de Telecomunicaciones
 Universidad de Antioquia
 
 ---
